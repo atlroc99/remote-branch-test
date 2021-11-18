@@ -1,1 +1,2 @@
 this is going to the remote branch 3
+updating this file checkedout from remote branch origin/feature/remote-branch-3 and local branch name is rem3
